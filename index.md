@@ -1,6 +1,8 @@
 An h1 header
 ============
 
+Repositories:  [oramonTIG](http://foo.bar)
+
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
@@ -42,3 +44,10 @@ from the left side). Here's a code sample:
 
 As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:
+
+
+Here's a link to [a website](http://foo.bar), to a [local
+doc](local-doc.html), and to a [section heading in the current
+doc](#an-h2-header). Here's a footnote [^1].
+
+[^1]: Footnote text goes here.
