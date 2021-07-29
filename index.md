@@ -1,7 +1,10 @@
 An h1 header
 ============
 
-Repositories:  [pdbctl](https://github.com/josecarlospavon/pdbctl) a pdb management tool
+Repositories:  
+
+* [pdbctl](https://github.com/josecarlospavon/pdbctl) a pdb management tool
+* to a [pdbctl](pdbctl.html)
 
 Paragraphs are separated by a blank line.
 
